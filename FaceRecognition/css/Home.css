@@ -1,0 +1,22 @@
+body {
+    margin-top: 15%;
+    margin-left: 47%;
+}
+
+a.button {
+    height: 50px;
+    width: 100px;
+
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+
+    text-align: center;
+    color: initial;
+}
+
+p.button {
+    height: 100px;
+}

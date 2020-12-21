@@ -1,0 +1,13 @@
+body {
+    margin-top: 10%;
+    margin-left: 45%;
+}
+
+input.input {
+    float: right;
+    margin-right: 83%;
+}
+
+input.signup {
+    margin-left: -5.5%;
+}

@@ -1,0 +1,32 @@
+body {
+    margin-top: 10%;
+    margin-left: 45%;
+}
+
+a.button {
+    height: 50px;
+    width: 250px;
+    margin-left: -11%;
+
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+
+    text-align: center;
+    color: initial;
+}
+
+h1.or {
+    margin-left: 2%;
+}
+
+input.input {
+    float: right;
+    margin-right: 83%;
+}
+
+#loginButton {
+    margin-left: 2%;
+}
